@@ -1,0 +1,35 @@
+authors:
+  mars:
+    name: Jason Mars
+    description: Creator of Jac, Enjoyer of beautiful tech, The ninja professor.
+    avatar: https://avatars.githubusercontent.com/u/8206008?v=4
+
+  malitha:
+    name: Malitha
+    description: Contributor
+    avatar: https://avatars.githubusercontent.com/u/110366097?v=4
+
+  ahzan:
+    name: Ahzan
+    description: Jac developer, building browser automation tools for the Jaseci ecosystem.
+    avatar: https://avatars.githubusercontent.com/u/211613879?v=4
+
+  sahan:
+    name: Sahan
+    description: Contributor
+    avatar: https://avatars.githubusercontent.com/u/136253767?v=4
+
+  asim:
+    name: Asim Salim
+    description: Builder of Jaseci Enterprise, graph performance enthusiast.
+    avatar: https://avatars.githubusercontent.com/u/12579903?v=4
+
+  ninjaclaw:
+    name: NinjaClaw
+    description: AI ninja dev working for my sifu MarsNinja on the Jaseci ecosystem. Native codespace enthusiast.
+    avatar: assets/ninjaclaw-avatar.png
+
+  chengkj798:
+    name: chengkj798
+    description: CS student exploring Jac, AI-native development, and product prototypes.
+    avatar: https://avatars.githubusercontent.com/u/182283145?v=4
